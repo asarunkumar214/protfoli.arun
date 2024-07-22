@@ -1,0 +1,298 @@
+.h{
+    height: 95px;
+    width: 5000px;
+    color: rgb(16, 122, 243);
+    position: fixed;
+    background: rgb(34, 33, 33);
+    display: flex;
+    margin-top: -70px;
+    margin-left: -8px;
+}
+#h1{
+    width: 250px;
+}
+#op
+{
+    display: flex;
+    justify-content: space-evenly;  
+    height: 50px;
+    width: 550px;
+    margin-left: 705px;
+    margin-top: 35px;
+
+    
+}
+a{
+    text-decoration: none;
+    color: rgb(5, 104, 243);
+}
+#u{
+
+    border:3px solid rgb(3, 3, 3);
+    height: 740px;
+    width: 1510px;
+    margin-top: 70px;
+    margin-left: -9px;
+    background-color: rgb(1, 1, 1);
+    
+}
+
+
+
+#nm{
+    height: 600px;
+    width: 550px;
+    margin-left: 960px;
+    margin-top: 140px;
+   
+   
+}
+#p{
+    color:rgb(248, 242, 242);
+    text-align: center;
+    margin-top: -330px;
+    margin-left: -650px;
+    font-size: 50px;
+}
+#bio{
+    border: 3px solid rgb(20, 20, 20);
+    height: 850px;
+    width: 1510px;  
+    background: black;
+    margin-left: -9px;
+}
+#fff{
+
+    margin-top: 170px;
+    margin-left: 120px;
+    
+}
+#uo{
+    height: 460px;
+    width: 330px;
+    box-shadow: 120px 18px 880px rgb(9, 39, 233);
+
+}
+
+
+#w{
+    color: white;
+    margin-left: 470px;
+    margin-top: -400px;
+    font-size: 150%;
+}
+#d{
+    margin-left:510px ;
+    border: 2px solid black;
+    background: rgb(16, 122, 243);
+    height: 39px;
+    width: 190px;
+    border-radius: 10px;
+    
+    
+}
+#y{
+    color: white;
+    margin-left: 20px;
+    margin-top: 12px;
+}
+#pmain{
+    border: 3px solid black;
+    height: 740px;
+    width: 1510px;  
+    margin-left: -9px; 
+    background-color: #fff;
+}
+#uj{
+    margin-top: 150px;
+}
+
+
+#ty{
+   
+    color: rgb(22, 21, 21);
+    text-align: center;
+   
+}
+#gh{
+    border: 1px solid black;
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left:230px;
+    background-color: rgb(12, 11, 11);
+    
+    
+
+}
+#hg{
+    border: 1px solid black;
+    width: 250px;
+    height: 300px;
+    border-radius: 10px;
+    margin-left:70px;
+    background-color: rgb(12, 11, 11);
+    
+
+    
+    
+
+}
+#hj{
+    border: 1px solid black;
+    width: 250px;
+    height: 300px;
+     border-radius: 10px;
+     margin-left:70px;
+     background-color: rgb(12, 11, 11);
+   
+
+    
+}
+
+#jh{
+    display: flex;
+    margin-top: 60px;
+    margin-left: 100px;
+}  
+#c{
+    margin-top: 10px;
+    margin-left: 30px;
+    font-size: 20px;
+} 
+#f{
+    margin-top: 9px;
+    margin-left: 80px;
+    font-size: 20px;
+} 
+#s{
+    margin-top: 45px;
+    margin-left: 80px;
+    font-size: 20px;
+
+    
+}
+#lk{
+    height: 200px;
+    margin-top: -10px;
+   
+    
+}
+#kl{  height: 190px;
+    
+    width: 250px;
+
+}
+#kk{height: 190px;
+    
+    width: 250px;
+
+}
+
+#c,#f,#s{
+    color: rgb(248, 245, 245);
+}
+
+#skill{
+    height: 740px;
+    width: 1500px;
+    border: 5px solid rgb(8, 8, 8);
+    margin-left: -10px;
+    display: flex;
+    background-color: rgb(0, 0, 0);
+    color:rgb(5, 114, 239)
+    
+}
+#sk{
+    margin-left: 750px;
+    margin-top: 130px;
+}
+#tech{
+    height: 400px;
+    width: 300px;
+    color: aliceblue;
+    
+    margin-top: 190px;
+    margin-left: -430px;
+    justify-content: space-evenly;
+    
+}
+#Languages{
+    height: 400px;
+    width: 300px;
+    color: antiquewhite;
+    
+    margin-top: 190px;
+    margin-left: 200px;
+}
+#contact{
+    height: 740px;
+    width: 1500px;
+    border: 5px solid rgb(248, 246, 246);
+    display: flex;
+    margin-top:px;
+}
+#con{
+    margin-left: 420px;
+    margin-top: 190px;
+}
+#pimg{margin-top: 250px;
+    margin-left: 20px;
+}
+#pname{
+    margin-top: 235px;
+    margin-left: 35px;
+}
+#cimg{
+    margin-top: 305px;
+    margin-left: -281px;
+}
+#cnum{
+    margin-top: 130px;
+    margin-left: 33px;
+}
+#gimg{
+    margin-top: 360px;
+    margin-left: -275px;
+}
+#gnum{
+    margin-left:34px ;
+    margin-top: 345px;
+}
+#jimg{
+    margin-left: 570px;
+    margin-top: -310px;
+}
+#jnum{
+    margin-left: -55px;
+    margin-top: -50px;
+}
+#himg{ margin-left: 570px;
+    margin-top: 40px;
+
+}
+#hnum{ margin-left: -65px;
+    margin-top: -54px;
+
+}
+
+#bws{
+    margin-left:70px ;
+    margin-top: 50px;
+}
+#tg{
+    color: black;
+}
+
+
+
+
+#m{
+    margin-top: 180px;
+}
+
+    
+
+#contact_name{
+    display: flex;
+}
